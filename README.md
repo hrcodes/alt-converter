@@ -2,7 +2,7 @@
 
 Convert text to ALT codes, and ALT codes to text
 
-https://alt-converter.herokuapp.com/
+https://alt-converter.vercel.app/
 
 ## Project setup
 
